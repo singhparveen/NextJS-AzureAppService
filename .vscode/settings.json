@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6ba8e616-dc16-4569-90eb-05a53d7896b5/resourceGroups/singhtestnextjsproject/providers/Microsoft.Web/sites/singhtestnextjsproject",
+    "appService.deploySubpath": "."
+}
